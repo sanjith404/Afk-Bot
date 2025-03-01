@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "MineGuyzz.aternos.me",
+    "port": 58170,
     "version": "1.19.3"
   },
 
